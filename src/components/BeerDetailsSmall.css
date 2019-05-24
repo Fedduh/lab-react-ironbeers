@@ -1,0 +1,15 @@
+.beer-details-small-container {
+  display: flex;
+  border-bottom: 1px solid grey;
+  padding: 10px;
+}
+
+.beer-details-small-img {
+  width: 30px;
+  padding: 20px;
+}
+
+.beer-details-small-container img {
+  width: 100%;
+  height: auto;
+}

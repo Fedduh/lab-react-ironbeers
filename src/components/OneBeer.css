@@ -1,0 +1,14 @@
+.beer-details-container {
+  padding: 10px;
+}
+
+.beer-details-img {
+  height: 200px;
+}
+
+.beer-details-img img {
+  height: 100%;
+  width: auto;
+  margin: 10px auto;
+  display: block;
+}
